@@ -1,0 +1,6 @@
+https://fontawesome.com/
+https://remixicon.com/
+
+
+https://meyerweb.com/eric/tools/css/reset/
+https://necolas.github.io/normalize.css/
